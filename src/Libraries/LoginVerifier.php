@@ -2,6 +2,8 @@
 
 namespace Src\Libaries;
 
+require __DIR__ . '/../init.php';
+
 use Src\Models\LoginModel;
 
 class LoginVerifier

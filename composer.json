@@ -1,0 +1,15 @@
+{
+    "name": "spare100423/cmreedserver",
+    "authors": [
+        {
+            "name": "christianmichaelreed",
+            "email": "christianmichaelreed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "": "src/"
+        }
+      },
+      "require": {}
+}
